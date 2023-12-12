@@ -1,6 +1,6 @@
 # Plots
 
-[https://linamaho.github.io/Plots/](https://linamaho.github.io/WebPage/)
+[https://linamaho.github.io/WebPage/](https://linamaho.github.io/WebPage/)
 
 ## It all start with a blank page.
 
